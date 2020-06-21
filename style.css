@@ -1,0 +1,30 @@
+#form
+{
+    background-color: rgb(209, 250, 246);;
+    padding: 10px;
+    display: inline-block;
+}
+#input
+{
+    height: 25px;
+    border-radius: 10px;
+    background-color:rgb(252, 249, 249); 
+}
+#add-btn
+{
+    position: absolute;
+    left: 155px;
+    top: 25px;
+}
+
+.btn
+{
+    background: transparent;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+ul
+{
+    list-style: none;
+}
